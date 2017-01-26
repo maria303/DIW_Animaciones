@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26-ene-2017, 8:57:30
+    Author     : alumno
+*/
+
+.rotar{
+    transform: rotate(50deg);
+}
+
+.skew{
+   transform: skew(20deg,10deg); 
+}
+
+.scale{
+    transform: scale(0.5, 0.5);
+}
+
+.rotate3D{
+    transform: rotateX(80deg)
+}
